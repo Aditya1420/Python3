@@ -9,3 +9,5 @@ words={"pwd":"Will show present directory",
        "mkdir":"to create directory"}
 searchWord=input("Enter the word you want to search:") #taking input from user
 print(words[searchWord]) #printing the meaning of the given word
+
+#Checking
