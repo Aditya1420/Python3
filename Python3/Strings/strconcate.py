@@ -1,9 +1,12 @@
 # To change string we can use concatenation
-str="Aditya"
-lastStr=str[1:]
+# str="Aditya"
+# lastStr=str[1:]
+#
+# print("D"+lastStr) # Using plus operator
+#
+# print(10 * lastStr) # Using * to print same multiple times
+#########################################################################################################
+#String.format() to add new string without using concatenation
 
-print("D"+lastStr) # Using plus operator
-
-print(10 * lastStr) # Using * to print same multiple times
 
 
