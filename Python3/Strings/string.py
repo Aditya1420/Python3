@@ -1,9 +1,12 @@
 myStr="aditya Damar amit"
 
 print(myStr[::-1])
+
 #
 #print(myStr.encode())
 #print(len(myStr))
+# print(myStr.split()) #to print the string in list
+
 # print(myStr.isalnum())#Checks whether the string contains alphanumeric value
 #
 # print(myStr.isalpha())#Checks whether the string contains alpha value

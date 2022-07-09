@@ -1,11 +1,14 @@
-# a = 1 + 2 + 3 + \
-#     4 + 5 + 6
+# a = int(input())
+# b = int(input())
+# print(a//b)
+# print(a/b)
 #
-# print(a)
 
-# for i in range(1,12):
-#     print(i)
-#     if i == 11:
-#         break
+# n = int(input())
+# for i in range(1,n+1):
+#     print (i,end='') #end=''--> it will append space
 
-print("Hello")
+nums=[1,2,3,4]
+target=5
+
+if
